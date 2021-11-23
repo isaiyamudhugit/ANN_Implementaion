@@ -1,5 +1,5 @@
-# ANN_Implementaion
-ANN_Implementaion
+# ANN_Implementation
+ANN_Implementation
 
 
 # Creating  Environment
